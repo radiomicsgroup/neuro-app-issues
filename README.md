@@ -1,2 +1,4 @@
-# neuro-app-issues
-Issues for Radiomics Neuro App.
+# Radiomics Neuro-App
+
+## This Repository is used only to store the issues with the Radiomics Neuro App 
+
